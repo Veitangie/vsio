@@ -1,6 +1,6 @@
 # VSIO: A Grokable M:N Fiber Scheduler
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![JitPack](https://jitpack.io/v/Veitangie/vsio.svg)](https://jitpack.io/#Veitangie/vsio)
 
 `VSIO` ([V]eitangie's [S]imple [IO]) is a lock-free, purely functional cooperative lightweight thread (fiber) runtime built from scratch in Scala 3.
 
