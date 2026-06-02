@@ -24,7 +24,7 @@ As is mandatory in the modern world, the runtime features:
 ```scala
 resolvers += "JitPack" at "https://jitpack.io"
 
-libraryDependencies += "com.github.veitangie" %% "vsio" % "v1.0.0"
+libraryDependencies += "com.github.veitangie" %% "vsio" % "1.0.0"
 ```
 
 > Disclaimer on AI usage: An LLM (Google Gemini Pro 3.1) was used to produce the test suites, the suites left unchanged - hence the comments
